@@ -5,8 +5,8 @@ export const categories = [
     "Desenhos animados",
     "Ação",
     "Terror",
-    "Climatologia, Meteorologia, Vegetação",
-    "Geologia e Hidrografia"
+    "Travis Scott",
+    "Future"
 ]
   
 export function filterCategory(id){
