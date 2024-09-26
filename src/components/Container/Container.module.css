@@ -1,8 +1,10 @@
 .container {
     width: 100%;
-    min-height: 100vh; /* 450px no video ou 100% o correto é min-height */
+    min-height: 100vh; /* aula 14 */
+    padding-bottom: 1.5rem; /* aula 14 */
     background-color: #191919;
+    padding-inline: 1.5rem; /* aula 11 */
     color: #fff;
-    padding-block: 1rem;
     text-align: center;
-}
+    overflow: hidden; /* aula 14 */
+} 
